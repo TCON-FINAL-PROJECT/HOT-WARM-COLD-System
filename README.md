@@ -202,7 +202,7 @@ Como el script realiza distintos pasos, detallamos cada uno para que pueda corro
                 "actions": {
                     "rollover": {
                         "max_primary_shard_size": "10kb",
-                        "max_age": "3m"
+                        "max_age": "9m"
                     },
                     "set_priority": {
                         "priority": 100
